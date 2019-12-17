@@ -1,4 +1,4 @@
-# 2019-Hallym-SW_Contest
+# 2019-Hallym-SW_idea_Contest
 
 ## 개요
 * 2019년 한림대학교 SW공모전 아이디어 부문 수상작입니다.
